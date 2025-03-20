@@ -16,8 +16,8 @@ public class Main{
         // result = Math.sqrt(9); --> sayının kökünü alır 
 
         // result = Math.round(3.50); --> sayının tam değerini alır 3.22 == 3 || 3.66 == 4 || 3.50 == 4
-        // result = math.ceil(3.14); --> hertürlü bir üste yuvarlar
-        // result = Math.floor(3.99);  --> hertürlü bir alta yuvarlar
+        // result = math.ceil(3.14); --> hertürlü bir üste yuvarlar 4 
+        // result = Math.floor(3.99);  --> hertürlü bir alta yuvarlar 3
 
         // result = Math.max(20,40); --> max değeri verir
         // System.out.println(result);

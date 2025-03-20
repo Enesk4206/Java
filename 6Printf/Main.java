@@ -46,19 +46,22 @@ public class Main{
         // System.out.printf("%(2f \n", price3);
       
 
-        //*paddin ekleme işlemi yapar int değerlerde %d normalde ==1 ise oland değere %03d ===001 yapar
-        //yine aynı şekilde %d değerini %3d yaparsam sıfırları eklemez ama mesafeyi ekler
+        //*padding ekleme işlemi yapar int değerlerde %d normalde == 1 ise oland değere %03d ===001 yapar
+        //*yine aynı şekilde %d değerini %3d yaparsam sıfırları eklemez ama mesafeyi ekler
 
-        int id1 = 1;
-        int id2 = 23;
-        int id3 = 404;
-        int id4 = 4444;
+        // int id1 = 1;
+        // int id2 = 23;
+        // int id3 = 404;
+        // int id4 = 4444;
 
 
-        System.out.printf("%03d \n", id1);
-        System.out.printf("%03d \n", id2);
-        System.out.printf("%03d \n", id3);
-        System.out.printf("%03d \n", id4);
+        // System.out.printf("%03d \n", id1);
+        // System.out.printf("%03d \n", id2);
+        // System.out.printf("%03d \n", id3);
+        // System.out.printf("%03d \n", id4);
+
+        int sayi = 23;
+        System.out.printf("%6d",sayi);
 
     }
 }

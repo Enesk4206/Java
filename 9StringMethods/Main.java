@@ -45,7 +45,7 @@ public class Main{
         //ikinci parameter değerini string dizisi içerisinde değistirir örn ahmet replace(o,a) = ohmet
 
         String name = "Ahmet";
-        name = name.replace("A", "C");
+        name = name.replace("A", "C"); //Chmet
         System.out.println(name);
 
 

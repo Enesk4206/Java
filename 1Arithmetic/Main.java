@@ -19,9 +19,9 @@ public class Main{
         
         // int x =1;
 
-        // x = x + 1;
-        // x += 1;
-        // x++; 
+        //1 x = x + 1;
+        //2 x += 1;
+        //3 x++; 
 
         // System.out.print(x);
 
